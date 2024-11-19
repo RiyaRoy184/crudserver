@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": "10",
+      "name": "Clementia DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@dano.io",
+      "phone": "024-648-3804",
+      "website": "ambross.net"
+    },
+    {
+      "id": "12",
+      "name": "Ali",
+      "email": "ali9@gamil.com"
+    },
+    {
+      "id": "13",
+      "name": "sharuk",
+      "email": "sharuk@gamil.com"
+    },
+    {
+      "id": "14",
+      "name": "harsh",
+      "email": "harsh@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "antony",
+      "email": "antony@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "alin ansari",
+      "email": "ali@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "veena",
+      "email": "veen@gmail.com"
+    }
+  ]
+}
